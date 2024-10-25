@@ -2,47 +2,80 @@
     "ShareTemplates": [
         {
             "Account": "Major",
-            "id": 1709562088
+            "id": 1709562088,
+            "url": "https://static.notpx.app/templates/1709562088.png",
+            "x": 107,
+            "y": 181
         },
         {
             "Account": "OKX",
-            "id": 1972552043
+            "id": 1972552043,
+            "url": "https://static.notpx.app/templates/1972552043.png",
+            "x": 111,
+            "y": 271
         },
         {
             "Account": "MeowPink",
-            "id": 1621573108
+            "id": 1621573108,
+            "url": "https://static.notpx.app/templates/1621573108.png",
+            "x": 45,
+            "y": 41
         },
         {
             "Account": "Vangogh",
-            "id": 355876562
+            "id": 355876562,
+            "url": "https://static.notpx.app/templates/355876562.png",
+            "x": 800,
+            "y": 800
         },
         {
             "Account": "Memefi",
-            "id": 1344946067
+            "id": 1344946067,
+            "url": "https://static.notpx.app/templates/1344946067.png",
+            "x": 836,
+            "y": 813
         },
         {
             "Account": "Butterfly",
-            "id": 6578955397
+            "id": 6578955397,
+            "url": "https://static.notpx.app/templates/6578955397.png",
+            "x": 35,
+            "y": 19
         },
         {
             "Account": "Clayton",
-            "id": 799818229
+            "id": 799818229,
+            "url": "https://static.notpx.app/templates/799818229.png",
+            "x": 823,
+            "y": 374
         },
         {
             "Account": "AnBlog",
-            "id": 689952357
+            "id": 689952357,
+            "url": "https://static.notpx.app/templates/689952357.png",
+            "x": 137,
+            "y": 864
         },
         {
             "Account": "Binance",
-            "id": 5315487777
+            "id": 5315487777,
+            "url": "https://static.notpx.app/templates/5315487777.png",
+            "x": 633,
+            "y": 815
         },
         {
             "Account": "Bums",
-            "id": 6989019093
+            "id": 6989019093,
+            "url": "https://static.notpx.app/templates/6989019093.png",
+            "x": 528,
+            "y": 872
         },
         {
             "Account": "Durov",
-            "id": 6476501580
+            "id": 6476501580,
+            "url": "https://static.notpx.app/templates/6476501580.png",
+            "x": 426,
+            "y": 807
         }
     ]
 }
