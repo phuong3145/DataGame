@@ -1,0 +1,48 @@
+{
+    "ShareTemplates": [
+        {
+            "Account": "Major",
+            "id": 1709562088
+        },
+        {
+            "Account": "OKX",
+            "id": 1972552043
+        },
+        {
+            "Account": "MeowPink",
+            "id": 1621573108
+        },
+        {
+            "Account": "Vangogh",
+            "id": 355876562
+        },
+        {
+            "Account": "Memefi",
+            "id": 1344946067
+        },
+        {
+            "Account": "TonDogs",
+            "id": 6264027879
+        },
+        {
+            "Account": "Clayton",
+            "id": 799818229
+        },
+        {
+            "Account": "Telegram",
+            "id": 1602902444
+        },
+        {
+            "Account": "Binance",
+            "id": 5315487777
+        },
+        {
+            "Account": "Bums",
+            "id": 6989019093
+        },
+        {
+            "Account": "Durov",
+            "id": 6476501580
+        }
+    ]
+}
