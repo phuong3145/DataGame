@@ -1,100 +1,28 @@
 {
     "ShareTemplates": [
         {
-            "id": 943097546,
-            "url": "https://static.notpx.app/tournament/943097546-4.png",
-            "x": 576,
-            "y": 128,
-            "imageSize": 128,
+            "id": 1083893924,
+            "url": "https://static.notpx.app/tournament/1083893924-7.png",
+            "x": 768,
+            "y": 256,
+            "imageSize": 256,
             "approved": true,
-            "roundID": 4,
+            "roundID": 7,
             "loseRoundID": 0,
-            "createdAt": "2024-12-04T09:03:21.702453Z",
-            "updatedAt": "2024-12-04T09:03:21.702453Z"
+            "createdAt": "2024-12-10T09:02:17.450157Z",
+            "updatedAt": "2024-12-10T09:02:17.450157Z"
         },
         {
-            "id": 6496074705,
-            "url": "https://static.notpx.app/tournament/6496074705-4.png",
-            "x": 448,
-            "y": 640,
-            "imageSize": 128,
+            "id": 242092214,
+            "url": "https://static.notpx.app/tournament/242092214-7.png",
+            "x": 256,
+            "y": 0,
+            "imageSize": 256,
             "approved": true,
-            "roundID": 4,
+            "roundID": 7,
             "loseRoundID": 0,
-            "createdAt": "2024-12-04T09:03:21.702453Z",
-            "updatedAt": "2024-12-04T09:03:21.702453Z"
-        },
-        {
-            "id": 7079059155,
-            "url": "https://static.notpx.app/tournament/7079059155-4.png",
-            "x": 192,
-            "y": 512,
-            "imageSize": 128,
-            "approved": true,
-            "roundID": 4,
-            "loseRoundID": 0,
-            "createdAt": "2024-12-04T09:03:21.702453Z",
-            "updatedAt": "2024-12-04T09:03:21.702453Z"
-        },
-        {
-            "id": 638403324,
-            "url": "https://static.notpx.app/tournament/638403324-4.png",
-            "x": 960,
-            "y": 128,
-            "imageSize": 128,
-            "approved": true,
-            "roundID": 4,
-            "loseRoundID": 0,
-            "createdAt": "2024-12-04T09:03:21.702453Z",
-            "updatedAt": "2024-12-04T09:03:21.702453Z"
-        },
-        {
-            "id": 59956241,
-            "url": "https://static.notpx.app/tournament/59956241-4.png",
-            "x": 0,
-            "y": 960,
-            "imageSize": 128,
-            "approved": true,
-            "roundID": 4,
-            "loseRoundID": 0,
-            "createdAt": "2024-12-04T09:03:21.702453Z",
-            "updatedAt": "2024-12-04T09:03:21.702453Z"
-        },
-        {
-            "id": 6908275425,
-            "url": "https://static.notpx.app/tournament/6908275425-4.png",
-            "x": 512,
-            "y": 128,
-            "imageSize": 128,
-            "approved": true,
-            "roundID": 4,
-            "loseRoundID": 0,
-            "createdAt": "2024-12-04T09:03:21.702453Z",
-            "updatedAt": "2024-12-04T09:03:21.702453Z"
-        },
-        {
-            "id": 266375046,
-            "url": "https://static.notpx.app/tournament/266375046-4.png",
-            "x": 896,
-            "y": 512,
-            "imageSize": 128,
-            "approved": true,
-            "roundID": 4,
-            "loseRoundID": 0,
-            "createdAt": "2024-12-04T09:03:21.702453Z",
-            "updatedAt": "2024-12-04T09:03:21.702453Z"
-        },
-        {
-            "id": 153665413,
-            "url": "https://static.notpx.app/tournament/153665413-4.png",
-            "x": 0,
-            "y": 64,
-            "imageSize": 128,
-            "approved": true,
-            "roundID": 4,
-            "loseRoundID": 0,
-            "createdAt": "2024-12-04T09:03:21.702453Z",
-            "updatedAt": "2024-12-04T09:03:21.702453Z"
+            "createdAt": "2024-12-10T09:02:17.450157Z",
+            "updatedAt": "2024-12-10T09:02:17.450157Z"
         }
     ]
 }
